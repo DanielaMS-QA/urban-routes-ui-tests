@@ -67,9 +67,10 @@ Relatórios de bugs simulados no Jira: 🔗 Issues anonimizadas – Projeto PQ4
 🔍 1 área cinzenta identificada e registrada
 
 👩‍💻 Autora
-Daniela Silva 
-📧 danielasilva3251@gmail.com 
-📱 +55 11 99336-5375 
-🔗 LinkedIn 
-💻 GitHub 
-📂 Portfólio de Testes
+**Daniela Silva** 
+📧 danielasilva3251@gmail.com  
+📱 +55 11 99336-5375  
+🔗 [LinkedIn](https://www.linkedin.com/in/daniela-silva-b1a544275)  
+💻 [GitHub](https://github.com/danielasilva3251)  
+📂 [Portfólio de Testes](https://danielasilva3251.atlassian.net/jira/software/c/projects/PQ4/issues?jql=project%20%3D%20%22PQ4%22%20ORDER%20BY%20created%20DESC)
+
