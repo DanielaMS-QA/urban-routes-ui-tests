@@ -68,6 +68,7 @@ Relatórios de bugs simulados no Jira: 🔗 Issues anonimizadas – Projeto PQ4
 
 👩‍💻 Autora
 **Daniela Silva** 
+
 📧 danielasilva3251@gmail.com  
 📱 +55 11 99336-5375  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniela-silva-b1a544275)  
